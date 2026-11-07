@@ -16,6 +16,12 @@
 
 **Стек:** Python · PySide6 · faster-whisper · OpenAI-совместимый API
 
+**Скриншоты:**
+
+| Индикатор записи | ИИ-редактура диктовки |
+|:---:|:---:|
+| ![Индикатор записи](speak-to-text/screenshots/recording.png) | ![Окно проверки диктовки](speak-to-text/screenshots/ai-edit.png) |
+
 ---
 
 ## 🤖 Lzt_bot — автовыкуп лотов на lzt.market
